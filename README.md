@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Soumayaghosh/lc-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0135-candy](https://github.com/Soumayaghosh/lc-practice/tree/master/0135-candy) |
+| [0498-diagonal-traverse](https://github.com/Soumayaghosh/lc-practice/tree/master/0498-diagonal-traverse) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,4 +33,12 @@
 |  |
 | ------- |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Soumayaghosh/lc-practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+## Matrix
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/Soumayaghosh/lc-practice/tree/master/0498-diagonal-traverse) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/Soumayaghosh/lc-practice/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
