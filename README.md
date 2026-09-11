@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Soumayaghosh/lc-practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [3870-count-commas-in-range](https://github.com/Soumayaghosh/lc-practice/tree/master/3870-count-commas-in-range) |
 ## String
 |  |
 | ------- |
