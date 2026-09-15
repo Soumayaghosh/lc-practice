@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Soumayaghosh/lc-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0135-candy](https://github.com/Soumayaghosh/lc-practice/tree/master/0135-candy) |
 | [0498-diagonal-traverse](https://github.com/Soumayaghosh/lc-practice/tree/master/0498-diagonal-traverse) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Soumayaghosh/lc-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,4 +42,12 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Soumayaghosh/lc-practice/tree/master/0498-diagonal-traverse) |
+## Hash Table
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Soumayaghosh/lc-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Sorting
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Soumayaghosh/lc-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
