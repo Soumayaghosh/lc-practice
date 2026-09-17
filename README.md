@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Soumayaghosh/lc-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0135-candy](https://github.com/Soumayaghosh/lc-practice/tree/master/0135-candy) |
 | [0498-diagonal-traverse](https://github.com/Soumayaghosh/lc-practice/tree/master/0498-diagonal-traverse) |
+| [0605-can-place-flowers](https://github.com/Soumayaghosh/lc-practice/tree/master/0605-can-place-flowers) |
 | [0766-toeplitz-matrix](https://github.com/Soumayaghosh/lc-practice/tree/master/0766-toeplitz-matrix) |
 | [1706-where-will-the-ball-fall](https://github.com/Soumayaghosh/lc-practice/tree/master/1706-where-will-the-ball-fall) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Soumayaghosh/lc-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/Soumayaghosh/lc-practice/tree/master/0135-candy) |
+| [0605-can-place-flowers](https://github.com/Soumayaghosh/lc-practice/tree/master/0605-can-place-flowers) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Soumayaghosh/lc-practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Math
 |  |
