@@ -15,6 +15,7 @@
 | [1706-where-will-the-ball-fall](https://github.com/Soumayaghosh/lc-practice/tree/master/1706-where-will-the-ball-fall) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Soumayaghosh/lc-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3903-smallest-stable-index-i](https://github.com/Soumayaghosh/lc-practice/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Soumayaghosh/lc-practice/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,4 +78,5 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Soumayaghosh/lc-practice/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Soumayaghosh/lc-practice/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
