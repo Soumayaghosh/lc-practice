@@ -19,6 +19,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Soumayaghosh/lc-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Soumayaghosh/lc-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0374-guess-number-higher-or-lower](https://github.com/Soumayaghosh/lc-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Soumayaghosh/lc-practice/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Soumayaghosh/lc-practice/tree/master/0977-squares-of-a-sorted-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Soumayaghosh/lc-practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
