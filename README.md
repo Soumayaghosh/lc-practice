@@ -14,6 +14,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Soumayaghosh/lc-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1706-where-will-the-ball-fall](https://github.com/Soumayaghosh/lc-practice/tree/master/1706-where-will-the-ball-fall) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Soumayaghosh/lc-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3903-smallest-stable-index-i](https://github.com/Soumayaghosh/lc-practice/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Soumayaghosh/lc-practice/tree/master/0374-guess-number-higher-or-lower) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Soumayaghosh/lc-practice/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
