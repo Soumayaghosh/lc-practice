@@ -96,4 +96,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Soumayaghosh/lc-practice/tree/master/0257-binary-tree-paths) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0688-knight-probability-in-chessboard](https://github.com/Soumayaghosh/lc-practice/tree/master/0688-knight-probability-in-chessboard) |
 <!---LeetCode Topics End-->
