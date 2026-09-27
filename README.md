@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Soumayaghosh/lc-practice/tree/master/0257-binary-tree-paths) |
+| [0383-ransom-note](https://github.com/Soumayaghosh/lc-practice/tree/master/0383-ransom-note) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Soumayaghosh/lc-practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Game Theory
 |  |
@@ -65,6 +66,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Soumayaghosh/lc-practice/tree/master/0383-ransom-note) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Soumayaghosh/lc-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
@@ -109,4 +111,8 @@
 |  |
 | ------- |
 | [0688-knight-probability-in-chessboard](https://github.com/Soumayaghosh/lc-practice/tree/master/0688-knight-probability-in-chessboard) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Soumayaghosh/lc-practice/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
