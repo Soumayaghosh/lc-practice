@@ -15,6 +15,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Soumayaghosh/lc-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1706-where-will-the-ball-fall](https://github.com/Soumayaghosh/lc-practice/tree/master/1706-where-will-the-ball-fall) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Soumayaghosh/lc-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/Soumayaghosh/lc-practice/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Soumayaghosh/lc-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3903-smallest-stable-index-i](https://github.com/Soumayaghosh/lc-practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Soumayaghosh/lc-practice/tree/master/3904-smallest-stable-index-ii) |
@@ -27,6 +28,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Soumayaghosh/lc-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Soumayaghosh/lc-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Soumayaghosh/lc-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/Soumayaghosh/lc-practice/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -37,6 +39,7 @@
 | [0135-candy](https://github.com/Soumayaghosh/lc-practice/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/Soumayaghosh/lc-practice/tree/master/0605-can-place-flowers) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Soumayaghosh/lc-practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/Soumayaghosh/lc-practice/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +76,7 @@
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Soumayaghosh/lc-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Soumayaghosh/lc-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/Soumayaghosh/lc-practice/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Soumayaghosh/lc-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
@@ -86,6 +90,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/Soumayaghosh/lc-practice/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3903-smallest-stable-index-i](https://github.com/Soumayaghosh/lc-practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Soumayaghosh/lc-practice/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
