@@ -17,6 +17,7 @@
 | [1706-where-will-the-ball-fall](https://github.com/Soumayaghosh/lc-practice/tree/master/1706-where-will-the-ball-fall) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Soumayaghosh/lc-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Soumayaghosh/lc-practice/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2594-minimum-time-to-repair-cars](https://github.com/Soumayaghosh/lc-practice/tree/master/2594-minimum-time-to-repair-cars) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Soumayaghosh/lc-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3903-smallest-stable-index-i](https://github.com/Soumayaghosh/lc-practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Soumayaghosh/lc-practice/tree/master/3904-smallest-stable-index-ii) |
@@ -31,6 +32,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Soumayaghosh/lc-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Soumayaghosh/lc-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Soumayaghosh/lc-practice/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2594-minimum-time-to-repair-cars](https://github.com/Soumayaghosh/lc-practice/tree/master/2594-minimum-time-to-repair-cars) |
 ## Divide and Conquer
 |  |
 | ------- |
