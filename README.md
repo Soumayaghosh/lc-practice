@@ -47,6 +47,7 @@
 ## Math
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/Soumayaghosh/lc-practice/tree/master/1688-count-of-matches-in-tournament) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Soumayaghosh/lc-practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3870-count-commas-in-range](https://github.com/Soumayaghosh/lc-practice/tree/master/3870-count-commas-in-range) |
 ## String
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Soumayaghosh/lc-practice/tree/master/0498-diagonal-traverse) |
+| [1688-count-of-matches-in-tournament](https://github.com/Soumayaghosh/lc-practice/tree/master/1688-count-of-matches-in-tournament) |
 | [1706-where-will-the-ball-fall](https://github.com/Soumayaghosh/lc-practice/tree/master/1706-where-will-the-ball-fall) |
 ## Hash Table
 |  |
