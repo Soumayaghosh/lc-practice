@@ -50,12 +50,14 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Soumayaghosh/lc-practice/tree/master/0012-integer-to-roman) |
 | [1688-count-of-matches-in-tournament](https://github.com/Soumayaghosh/lc-practice/tree/master/1688-count-of-matches-in-tournament) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Soumayaghosh/lc-practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3870-count-commas-in-range](https://github.com/Soumayaghosh/lc-practice/tree/master/3870-count-commas-in-range) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Soumayaghosh/lc-practice/tree/master/0012-integer-to-roman) |
 | [0257-binary-tree-paths](https://github.com/Soumayaghosh/lc-practice/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/Soumayaghosh/lc-practice/tree/master/0383-ransom-note) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Soumayaghosh/lc-practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -78,6 +80,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Soumayaghosh/lc-practice/tree/master/0012-integer-to-roman) |
 | [0383-ransom-note](https://github.com/Soumayaghosh/lc-practice/tree/master/0383-ransom-note) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Soumayaghosh/lc-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
