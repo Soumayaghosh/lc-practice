@@ -14,6 +14,7 @@
 | [0605-can-place-flowers](https://github.com/Soumayaghosh/lc-practice/tree/master/0605-can-place-flowers) |
 | [0766-toeplitz-matrix](https://github.com/Soumayaghosh/lc-practice/tree/master/0766-toeplitz-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Soumayaghosh/lc-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Soumayaghosh/lc-practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [1706-where-will-the-ball-fall](https://github.com/Soumayaghosh/lc-practice/tree/master/1706-where-will-the-ball-fall) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Soumayaghosh/lc-practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Soumayaghosh/lc-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -82,6 +83,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Soumayaghosh/lc-practice/tree/master/0012-integer-to-roman) |
 | [0383-ransom-note](https://github.com/Soumayaghosh/lc-practice/tree/master/0383-ransom-note) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Soumayaghosh/lc-practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Soumayaghosh/lc-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
@@ -117,6 +119,7 @@
 | [0112-path-sum](https://github.com/Soumayaghosh/lc-practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Soumayaghosh/lc-practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Soumayaghosh/lc-practice/tree/master/0257-binary-tree-paths) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Soumayaghosh/lc-practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Soumayaghosh/lc-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -124,6 +127,7 @@
 | [0112-path-sum](https://github.com/Soumayaghosh/lc-practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Soumayaghosh/lc-practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Soumayaghosh/lc-practice/tree/master/0257-binary-tree-paths) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Soumayaghosh/lc-practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Soumayaghosh/lc-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -131,6 +135,7 @@
 | [0112-path-sum](https://github.com/Soumayaghosh/lc-practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Soumayaghosh/lc-practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Soumayaghosh/lc-practice/tree/master/0257-binary-tree-paths) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Soumayaghosh/lc-practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Soumayaghosh/lc-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Dynamic Programming
 |  |
