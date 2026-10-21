@@ -120,6 +120,7 @@
 | [0113-path-sum-ii](https://github.com/Soumayaghosh/lc-practice/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Soumayaghosh/lc-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/Soumayaghosh/lc-practice/tree/master/0257-binary-tree-paths) |
+| [0623-add-one-row-to-tree](https://github.com/Soumayaghosh/lc-practice/tree/master/0623-add-one-row-to-tree) |
 | [0872-leaf-similar-trees](https://github.com/Soumayaghosh/lc-practice/tree/master/0872-leaf-similar-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Soumayaghosh/lc-practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Soumayaghosh/lc-practice/tree/master/1110-delete-nodes-and-return-forest) |
@@ -131,6 +132,7 @@
 | [0113-path-sum-ii](https://github.com/Soumayaghosh/lc-practice/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Soumayaghosh/lc-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/Soumayaghosh/lc-practice/tree/master/0257-binary-tree-paths) |
+| [0623-add-one-row-to-tree](https://github.com/Soumayaghosh/lc-practice/tree/master/0623-add-one-row-to-tree) |
 | [0872-leaf-similar-trees](https://github.com/Soumayaghosh/lc-practice/tree/master/0872-leaf-similar-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Soumayaghosh/lc-practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Soumayaghosh/lc-practice/tree/master/1110-delete-nodes-and-return-forest) |
@@ -142,6 +144,7 @@
 | [0113-path-sum-ii](https://github.com/Soumayaghosh/lc-practice/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Soumayaghosh/lc-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/Soumayaghosh/lc-practice/tree/master/0257-binary-tree-paths) |
+| [0623-add-one-row-to-tree](https://github.com/Soumayaghosh/lc-practice/tree/master/0623-add-one-row-to-tree) |
 | [0872-leaf-similar-trees](https://github.com/Soumayaghosh/lc-practice/tree/master/0872-leaf-similar-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Soumayaghosh/lc-practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Soumayaghosh/lc-practice/tree/master/1110-delete-nodes-and-return-forest) |
@@ -166,4 +169,5 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Soumayaghosh/lc-practice/tree/master/0112-path-sum) |
+| [0623-add-one-row-to-tree](https://github.com/Soumayaghosh/lc-practice/tree/master/0623-add-one-row-to-tree) |
 <!---LeetCode Topics End-->
