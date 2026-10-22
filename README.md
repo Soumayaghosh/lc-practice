@@ -83,6 +83,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Soumayaghosh/lc-practice/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/Soumayaghosh/lc-practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Soumayaghosh/lc-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0383-ransom-note](https://github.com/Soumayaghosh/lc-practice/tree/master/0383-ransom-note) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Soumayaghosh/lc-practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Soumayaghosh/lc-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Soumayaghosh/lc-practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Soumayaghosh/lc-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Soumayaghosh/lc-practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Soumayaghosh/lc-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Soumayaghosh/lc-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -165,6 +167,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Soumayaghosh/lc-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Soumayaghosh/lc-practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Soumayaghosh/lc-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Soumayaghosh/lc-practice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -179,4 +182,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Soumayaghosh/lc-practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Soumayaghosh/lc-practice/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
