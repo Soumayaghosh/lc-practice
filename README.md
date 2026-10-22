@@ -82,6 +82,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Soumayaghosh/lc-practice/tree/master/0012-integer-to-roman) |
+| [0141-linked-list-cycle](https://github.com/Soumayaghosh/lc-practice/tree/master/0141-linked-list-cycle) |
 | [0383-ransom-note](https://github.com/Soumayaghosh/lc-practice/tree/master/0383-ransom-note) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Soumayaghosh/lc-practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Soumayaghosh/lc-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -96,6 +97,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Soumayaghosh/lc-practice/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Soumayaghosh/lc-practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Soumayaghosh/lc-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Soumayaghosh/lc-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -162,6 +164,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Soumayaghosh/lc-practice/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Soumayaghosh/lc-practice/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Soumayaghosh/lc-practice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -172,4 +175,8 @@
 | ------- |
 | [0112-path-sum](https://github.com/Soumayaghosh/lc-practice/tree/master/0112-path-sum) |
 | [0623-add-one-row-to-tree](https://github.com/Soumayaghosh/lc-practice/tree/master/0623-add-one-row-to-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Soumayaghosh/lc-practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
