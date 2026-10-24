@@ -60,6 +60,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Soumayaghosh/lc-practice/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Soumayaghosh/lc-practice/tree/master/0012-integer-to-roman) |
 | [0257-binary-tree-paths](https://github.com/Soumayaghosh/lc-practice/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/Soumayaghosh/lc-practice/tree/master/0383-ransom-note) |
@@ -100,6 +101,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Soumayaghosh/lc-practice/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Soumayaghosh/lc-practice/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/Soumayaghosh/lc-practice/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Soumayaghosh/lc-practice/tree/master/0141-linked-list-cycle) |
@@ -161,6 +163,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Soumayaghosh/lc-practice/tree/master/0005-longest-palindromic-substring) |
 | [0688-knight-probability-in-chessboard](https://github.com/Soumayaghosh/lc-practice/tree/master/0688-knight-probability-in-chessboard) |
 ## Counting
 |  |
@@ -191,4 +194,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Soumayaghosh/lc-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Soumayaghosh/lc-practice/tree/master/0142-linked-list-cycle-ii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Soumayaghosh/lc-practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
