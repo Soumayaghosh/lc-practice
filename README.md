@@ -52,6 +52,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Soumayaghosh/lc-practice/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Soumayaghosh/lc-practice/tree/master/0012-integer-to-roman) |
 | [1688-count-of-matches-in-tournament](https://github.com/Soumayaghosh/lc-practice/tree/master/1688-count-of-matches-in-tournament) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Soumayaghosh/lc-practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -168,6 +169,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Soumayaghosh/lc-practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Soumayaghosh/lc-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/Soumayaghosh/lc-practice/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Soumayaghosh/lc-practice/tree/master/0141-linked-list-cycle) |
@@ -177,6 +179,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Soumayaghosh/lc-practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Soumayaghosh/lc-practice/tree/master/0021-merge-two-sorted-lists) |
 ## Breadth-First Search
 |  |
