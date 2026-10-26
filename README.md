@@ -64,6 +64,7 @@
 | [0012-integer-to-roman](https://github.com/Soumayaghosh/lc-practice/tree/master/0012-integer-to-roman) |
 | [0257-binary-tree-paths](https://github.com/Soumayaghosh/lc-practice/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/Soumayaghosh/lc-practice/tree/master/0383-ransom-note) |
+| [2000-reverse-prefix-of-word](https://github.com/Soumayaghosh/lc-practice/tree/master/2000-reverse-prefix-of-word) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Soumayaghosh/lc-practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Game Theory
 |  |
@@ -108,6 +109,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Soumayaghosh/lc-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Soumayaghosh/lc-practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Soumayaghosh/lc-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [2000-reverse-prefix-of-word](https://github.com/Soumayaghosh/lc-practice/tree/master/2000-reverse-prefix-of-word) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Soumayaghosh/lc-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
@@ -199,4 +201,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Soumayaghosh/lc-practice/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/Soumayaghosh/lc-practice/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
