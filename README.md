@@ -105,6 +105,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Soumayaghosh/lc-practice/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Soumayaghosh/lc-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Soumayaghosh/lc-practice/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/Soumayaghosh/lc-practice/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Soumayaghosh/lc-practice/tree/master/0141-linked-list-cycle) |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Soumayaghosh/lc-practice/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Soumayaghosh/lc-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Soumayaghosh/lc-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/Soumayaghosh/lc-practice/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Soumayaghosh/lc-practice/tree/master/0141-linked-list-cycle) |
