@@ -16,6 +16,7 @@
 | [0766-toeplitz-matrix](https://github.com/Soumayaghosh/lc-practice/tree/master/0766-toeplitz-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Soumayaghosh/lc-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Soumayaghosh/lc-practice/tree/master/1110-delete-nodes-and-return-forest) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Soumayaghosh/lc-practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1706-where-will-the-ball-fall](https://github.com/Soumayaghosh/lc-practice/tree/master/1706-where-will-the-ball-fall) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Soumayaghosh/lc-practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Soumayaghosh/lc-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0135-candy](https://github.com/Soumayaghosh/lc-practice/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/Soumayaghosh/lc-practice/tree/master/0605-can-place-flowers) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Soumayaghosh/lc-practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Soumayaghosh/lc-practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Soumayaghosh/lc-practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Soumayaghosh/lc-practice/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -91,6 +93,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Soumayaghosh/lc-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0383-ransom-note](https://github.com/Soumayaghosh/lc-practice/tree/master/0383-ransom-note) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Soumayaghosh/lc-practice/tree/master/1110-delete-nodes-and-return-forest) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Soumayaghosh/lc-practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Soumayaghosh/lc-practice/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Soumayaghosh/lc-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
