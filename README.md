@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Soumayaghosh/lc-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/Soumayaghosh/lc-practice/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Soumayaghosh/lc-practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Soumayaghosh/lc-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Soumayaghosh/lc-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -102,6 +103,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Soumayaghosh/lc-practice/tree/master/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/Soumayaghosh/lc-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Soumayaghosh/lc-practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Soumayaghosh/lc-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -111,6 +113,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Soumayaghosh/lc-practice/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/Soumayaghosh/lc-practice/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Soumayaghosh/lc-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Soumayaghosh/lc-practice/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/Soumayaghosh/lc-practice/tree/master/0086-partition-list) |
