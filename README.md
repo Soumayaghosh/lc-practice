@@ -66,6 +66,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Soumayaghosh/lc-practice/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Soumayaghosh/lc-practice/tree/master/0012-integer-to-roman) |
+| [0131-palindrome-partitioning](https://github.com/Soumayaghosh/lc-practice/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Soumayaghosh/lc-practice/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/Soumayaghosh/lc-practice/tree/master/0383-ransom-note) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Soumayaghosh/lc-practice/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Soumayaghosh/lc-practice/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Soumayaghosh/lc-practice/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Soumayaghosh/lc-practice/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
@@ -179,6 +181,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Soumayaghosh/lc-practice/tree/master/0005-longest-palindromic-substring) |
+| [0131-palindrome-partitioning](https://github.com/Soumayaghosh/lc-practice/tree/master/0131-palindrome-partitioning) |
 | [0688-knight-probability-in-chessboard](https://github.com/Soumayaghosh/lc-practice/tree/master/0688-knight-probability-in-chessboard) |
 ## Counting
 |  |
