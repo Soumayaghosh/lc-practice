@@ -19,6 +19,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Soumayaghosh/lc-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Soumayaghosh/lc-practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Soumayaghosh/lc-practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1598-crawler-log-folder](https://github.com/Soumayaghosh/lc-practice/tree/master/1598-crawler-log-folder) |
 | [1706-where-will-the-ball-fall](https://github.com/Soumayaghosh/lc-practice/tree/master/1706-where-will-the-ball-fall) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Soumayaghosh/lc-practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Soumayaghosh/lc-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -69,6 +70,7 @@
 | [0131-palindrome-partitioning](https://github.com/Soumayaghosh/lc-practice/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Soumayaghosh/lc-practice/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/Soumayaghosh/lc-practice/tree/master/0383-ransom-note) |
+| [1598-crawler-log-folder](https://github.com/Soumayaghosh/lc-practice/tree/master/1598-crawler-log-folder) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Soumayaghosh/lc-practice/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2000-reverse-prefix-of-word](https://github.com/Soumayaghosh/lc-practice/tree/master/2000-reverse-prefix-of-word) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Soumayaghosh/lc-practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -223,6 +225,7 @@
 ## Stack
 |  |
 | ------- |
+| [1598-crawler-log-folder](https://github.com/Soumayaghosh/lc-practice/tree/master/1598-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/Soumayaghosh/lc-practice/tree/master/2000-reverse-prefix-of-word) |
 ## Graph Theory
 |  |
