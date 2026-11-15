@@ -224,4 +224,8 @@
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/Soumayaghosh/lc-practice/tree/master/2000-reverse-prefix-of-word) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Soumayaghosh/lc-practice/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
