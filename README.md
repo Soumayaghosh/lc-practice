@@ -18,6 +18,7 @@
 | [0766-toeplitz-matrix](https://github.com/Soumayaghosh/lc-practice/tree/master/0766-toeplitz-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Soumayaghosh/lc-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Soumayaghosh/lc-practice/tree/master/1110-delete-nodes-and-return-forest) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Soumayaghosh/lc-practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Soumayaghosh/lc-practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1598-crawler-log-folder](https://github.com/Soumayaghosh/lc-practice/tree/master/1598-crawler-log-folder) |
 | [1706-where-will-the-ball-fall](https://github.com/Soumayaghosh/lc-practice/tree/master/1706-where-will-the-ball-fall) |
@@ -37,6 +38,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Soumayaghosh/lc-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Soumayaghosh/lc-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Soumayaghosh/lc-practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Soumayaghosh/lc-practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Soumayaghosh/lc-practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Soumayaghosh/lc-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Soumayaghosh/lc-practice/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -108,6 +110,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Soumayaghosh/lc-practice/tree/master/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/Soumayaghosh/lc-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Soumayaghosh/lc-practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Soumayaghosh/lc-practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Soumayaghosh/lc-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Soumayaghosh/lc-practice/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -185,6 +188,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Soumayaghosh/lc-practice/tree/master/0005-longest-palindromic-substring) |
 | [0131-palindrome-partitioning](https://github.com/Soumayaghosh/lc-practice/tree/master/0131-palindrome-partitioning) |
 | [0688-knight-probability-in-chessboard](https://github.com/Soumayaghosh/lc-practice/tree/master/0688-knight-probability-in-chessboard) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Soumayaghosh/lc-practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Counting
 |  |
 | ------- |
