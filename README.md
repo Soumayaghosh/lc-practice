@@ -12,6 +12,7 @@
 | [0036-valid-sudoku](https://github.com/Soumayaghosh/lc-practice/tree/master/0036-valid-sudoku) |
 | [0135-candy](https://github.com/Soumayaghosh/lc-practice/tree/master/0135-candy) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Soumayaghosh/lc-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/Soumayaghosh/lc-practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0498-diagonal-traverse](https://github.com/Soumayaghosh/lc-practice/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Soumayaghosh/lc-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Soumayaghosh/lc-practice/tree/master/0605-can-place-flowers) |
@@ -187,6 +188,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Soumayaghosh/lc-practice/tree/master/0005-longest-palindromic-substring) |
 | [0131-palindrome-partitioning](https://github.com/Soumayaghosh/lc-practice/tree/master/0131-palindrome-partitioning) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/Soumayaghosh/lc-practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0688-knight-probability-in-chessboard](https://github.com/Soumayaghosh/lc-practice/tree/master/0688-knight-probability-in-chessboard) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Soumayaghosh/lc-practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Counting
